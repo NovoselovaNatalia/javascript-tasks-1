@@ -11,7 +11,7 @@ else {
 switch (Math.floor(number/10)) { 
 	case 0:		
 		return '';	
-case 1:	
+	case 1:	
 		return 'X';
 	case 2:		
 		return 'XX';	
